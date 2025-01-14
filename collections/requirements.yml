@@ -2,4 +2,4 @@
 collections:
   - name: mycolec.users
     version: 1.0.0
-    source: https://hub.lab.net/api/galaxy/content/mycolec/
+    source: http://hub.lab.net/api/galaxy/content/mycolec/
