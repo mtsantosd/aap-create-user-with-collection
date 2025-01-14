@@ -1,0 +1,5 @@
+---
+- name: Create a user from a role in a collection
+  hosts: all
+  roles:
+    - roles: mycolec.users.newusers
