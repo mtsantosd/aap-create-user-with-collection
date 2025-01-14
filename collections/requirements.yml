@@ -1,4 +1,0 @@
----
-collections:
-  - name: rhel.user
-    version: "2.0.0"
