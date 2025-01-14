@@ -1,4 +1,4 @@
 ---
 collections:
-  - name: mycolec.users
+  - name: rhel.users
     version: 1.0.0
