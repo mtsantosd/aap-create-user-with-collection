@@ -1,5 +1,5 @@
 ---
 - name: Create a user from a role in a collection
-  hosts: all
+  hosts: "{{ target|default('client')}}"
   roles:
     - role: mycolec.users.newusers
